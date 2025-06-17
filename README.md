@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rezanu62
+- 👋 Hi, I’m Rezanul Haque Raz
 - 👀 I’m interested in **Web Development, APIs, and Real-Time Applications**
 - 🌱 I’m currently learning **Django, Django REST Framework, Stripe Integration, and Live Streaming Features**
 - 💞️ I’m looking to collaborate on **Open Source Django Projects, especially those focused on e-commerce or live platforms**
